@@ -15,6 +15,4 @@ Gestión de vehículos: Registrar y administrar coches disponibles en el concesi
 Registro de transacciones: Registrar compras y ventas de vehículos.
 Interfaz amigable: Diseñado con Thymeleaf para una mejor experiencia de usuario.
 
-Enlace de descarga
-Puedes descargar el código fuente del proyecto aquí:
-📥 Descargar ProyectoMVC
+
